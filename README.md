@@ -1,8 +1,5 @@
-# Contacts List
-List of mentors, coaches and people who are here to help. This has been created on the back of the overwhelming support in the Manchester tech community due to the administration of Laterooms.
+# North West Tech
 
-Thanks to Amy Newton and Leigh Rathbone for the great event.
+On this site you will find resources and people to speak to for the North West Tech community. Thanks to everyone who helps contribute to this list. I would love to see this list grow a become a self-organised resource for the north west.
 
-# People
-* Leigh Rathbone - [linkedin](https://www.linkedin.com/in/leigh-rathbone-630690b/)
-* Callum Fraser - [linkedin](https://www.linkedin.com/in/callumjfraser/)
+* [Mentors List](/Mentors)
