@@ -4,5 +4,5 @@ On this site you will find resources and people to speak to for the North West T
 
 Everything here is a work in progress.
 
-* [Mentors List](/Mentors)
-* [Interview Questions](/Jobs/Questions)
+* [Mentors List](Mentors)
+* [Interview Questions](Jobs/Questions)
