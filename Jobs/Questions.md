@@ -5,19 +5,18 @@ I want to thank Amy Newton for the wonderful questions and thought process about
 
 **Please note:** This is not an exhaustive list and you wil probably not want to ask all these questions: This document is here to help provide help, ideas and the analytical thought process to ask the questions to help you work out if a company is the right fit for you.
 
-<details>
-<summary>Work Hours</summary>
-
+<details><summary>Work Hours</summary>
+<p>
     ## Do they have flexible working hours
     This should cover the main procedures for flexible working but as with a lot of questions the important thing is to dive into the answer a little:
 
     ## Does the team have people taking advantage of flexible working?
     It is important to ask specifically about the team you will be working in because some companies will have flexible working but the team may view a single outlier working flexibly as being diffacult.
+</p>
 </details>
 
-<details>
-    <summary>Career Development</summary>
-
+<details><summary>Career Development</summary>
+<p>
     ## Do they have provisions for Self Development?
     This could be in the form of dedicated training available or a training fund. This can vary massively depending on the company. Larger companies tend to have things like pluralsite or other video training resources.
 
@@ -32,11 +31,11 @@ I want to thank Amy Newton for the wonderful questions and thought process about
 
     ## Feedback time allocation
     How often is feedback provided? Ad-hoc feedback is fine but it can often be used as an easy justification for never really providing any feedback. A more useful aproach is to have some time (maybe once a month, or quarter) set aside for conversations to supplement the ad-hoc feedback.
+</p>
 </details>
 
-<details>
-    <summary>Culture</summary>
-
+<details><summary>Culture</summary>
+<p>
     ## Company Values
     What are the company values? does the team exemplify the values of the company or is it viewed as corporate box checking?
 
@@ -45,11 +44,11 @@ I want to thank Amy Newton for the wonderful questions and thought process about
 
     ## Manager management style?
     Its always useful to know how your managers style will affect your day to day working environment. some value being given space and oppertunity to flourish, others handle closer management better
+</p>
 </details>
 
-<details>
-<summary>Social</summary>
-
+<details><summary>Social</summary>
+<p>
     ## What team events are there?
     How does the team spend time together? After work events wil suit some but this may not work well with others, or is unable to attend often. It might make them feel somewhat excluded from the social events 
 
@@ -61,5 +60,5 @@ I want to thank Amy Newton for the wonderful questions and thought process about
 
     ## Can anyone organise an event
     Does the team/company have someone who organises events? can anyone organise an event? 
-
+</p>
 </details>
