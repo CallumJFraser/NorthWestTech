@@ -4,3 +4,4 @@ List of mentors, coaches and people who are here to help. This has been created 
 # People
 * Leigh Rathbone - [linkedin](https://www.linkedin.com/in/leigh-rathbone-630690b/)
 * Callum Fraser - [linkedin](https://www.linkedin.com/in/callumjfraser/)
+* Darryl Kennedy - [linkedin](https://www.linkedin.com/in/darrylkennedy)
