@@ -12,8 +12,8 @@ The Meetup communities are all active on the Meetup space so this page isn't des
 
 ## Testing
 
-* Ministry of Testing Manchester - www.meetup.com/Ministry-of-Testing-Manchester
+* [Ministry of Testing](www.meetup.com/Ministry-of-Testing-Manchester)
 
 ## Development
 
-* Dot Net North - www.meetup.com/DotNetNorth/
+* [Dot Net North](www.meetup.com/DotNetNorth/)
