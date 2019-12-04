@@ -7,4 +7,4 @@ Slack is a tool uses widely across the community and you can register to join th
 * [Mcr Tech](https://mcrtech-slack.herokuapp.com/)
 * [Ministry of Testing](https://www.ministryoftesting.com/slack_invite)
 
-[Slack](https://slack.com/intl/en-gb/) can be accessed via a web interface or via an application installed on your PC/laptop.  It's a simple down load and once installed it's easy to manage all of your Slack workspaces and channels.
+[Slack](https://slack.com/intl/en-gb/) can be accessed via a web interface or via an application installed on your PC/laptop.  It's a simple download and once installed it's easy to manage all of your Slack workspaces and channels.
