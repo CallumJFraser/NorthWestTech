@@ -5,6 +5,12 @@ I want to thank Amy Newton for the wonderful questions and thought process about
 
 **Please note:** This is not an exhaustive list and you wil probably not want to ask all these questions: This document is here to help provide help, ideas and the analytical thought process to ask the questions to help you work out if a company is the right fit for you.
 
+# Learning
+## Do they have any resource recommendations
+This is a great one to ask, the interviewer has spent time learning as much as they can about you. No one will have better knowledge of what skills they are looking for and what the company needs.
+
+This will allow you to take that knowledge and learn more relevent things (both for the business and general skills) from it.
+
 # Work Hours
 
 ## Do they have flexible working hours
