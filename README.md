@@ -6,6 +6,6 @@ On this site you will find resources and people to speak to for the North West T
 
 Everything here is a work in progress.
 
-* [Starting Out](Starters/index)
-* [Mentors List](Mentors)
-* [Interview Questions](Jobs/Questions)
+* [Starting Out](starters/index)
+* [Mentors List](mentors)
+* [Interview Questions](jobs/questions)
